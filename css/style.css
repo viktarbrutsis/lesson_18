@@ -100,10 +100,13 @@ h2.title {
    font-family: 'Roboto';
    font-weight: 100;
    font-size: 15px;
-   line-height: 24px;
    text-align: center;
-
    text-transform: uppercase;
-      
    color: #FFFFFF;
   }
+
+  .more .more_img {
+   display: block;
+   margin: 15px auto 0 auto;
+   cursor: pointer;
+}
