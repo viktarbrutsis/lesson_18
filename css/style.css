@@ -214,7 +214,82 @@ h2.title {
    font-weight: bold;
 }
 
+.result {
+   min-height: 447px;
+   background: url(../img/finish/second_bg.jpg) center center/cover no-repeat;
+}
 
+.result_header {
+   padding-top: 86px;
+   font-family: 'Roboto';
+   font-weight: 400;
+   font-size: 30px;
+   line-height: 30px;
+   text-align: center;
+   text-transform: uppercase;
+   color: #EFEFEF;
+}
 
+.result .result_divider {
+   width: 220px;
+   height: 7px;
+   top: 129px;
+   background: #F9BF3B;
+   display: block;
+   margin: 18px auto 39px auto;
+}
+
+.result .result_finish_block {
+   display: flex;
+   justify-content: center;
+   padding-bottom: 68px;
+}
+
+.result .result_finish {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 245px;
+}
+
+.result .result_finish_img {
+   background: #B4E2FF;
+   border-radius: 50%;
+   width: 118px;
+   height: 118px;
+ }
+
+.img_1 {
+    padding: 38px 25px 32px 26px;
+}
+
+.img_2 {
+   padding: 32px 29px 29px 33px;
+}
+
+.img_3 {
+   padding: 29px 27px 35px 31px;
+}
+
+.img_4 {
+   padding: 25px 25px 29px 28px;
+}
+
+.img_5 {
+   padding: 25px 29px 30px 33px;
+}
+
+.result .result_finish_text {
+   
+   font-family: 'Roboto';
+   font-weight: 300;
+   font-size: 15px;
+   line-height: 20px;
+   text-transform: uppercase;
+   text-align: center;
+   width: 230px;
+   padding-top: 47px;
+   color: #EFEFEF;
+}
 
 
