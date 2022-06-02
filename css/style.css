@@ -4,6 +4,7 @@
    padding: 0px;
 }
 
+
 .container {
    width: 1140px;
    margin: 0 auto;
@@ -43,7 +44,7 @@ h2.title {
 .title {
    color: #F9BF3B;
    font-family: 'Roboto';
-   font-weight: 400;
+   font-weight: 900;
    font-size: 41px;
    line-height: 24px;
    text-transform: uppercase;
@@ -51,8 +52,8 @@ h2.title {
   }
 
 .simple .title_big {
-   font-family: 'Roboto';
-   font-weight: 400;
+   font-family: 'Roboto Black';
+   font-weight: 800;
    font-size: 80px;
    text-align: center;
    text-transform: uppercase;
@@ -345,6 +346,7 @@ h2.title {
 
 .webinar {
    padding-top: 81px; 
+   background: rgba(0, 0, 0, 0.25)
 }
 
 .first_webinar {
